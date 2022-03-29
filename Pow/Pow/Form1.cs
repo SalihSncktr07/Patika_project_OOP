@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Üs_alma
+namespace Pow
 {
     public partial class Form1 : Form
     {
@@ -17,14 +17,14 @@ namespace Üs_alma
             InitializeComponent();
         }
 
-        private void btnIsle_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             double X, y, z;
-
+            
             X = Convert.ToInt32(textBox1.Text);
             y = Convert.ToInt32(textBox2.Text);
             z = Math.Pow(X, y);
-            lblSonuc.Text = z.ToString();
+            textBox3.Text = z.ToString();
         }
     }
 }

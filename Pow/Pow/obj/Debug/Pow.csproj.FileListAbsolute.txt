@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\bin\Debug\Pow.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\bin\Debug\Pow.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\bin\Debug\Pow.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\obj\Debug\Pow.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\obj\Debug\Pow.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\obj\Debug\Pow.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\obj\Debug\Pow.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\obj\Debug\Pow.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\obj\Debug\Pow.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\obj\Debug\Pow.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Pow\Pow\obj\Debug\Pow.pdb

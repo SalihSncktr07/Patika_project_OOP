@@ -34,8 +34,8 @@
             this.btnIsle = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.txtSayi2 = new System.Windows.Forms.TextBox();
-            this.txtSayi1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label4
@@ -95,19 +95,20 @@
             this.label1.TabIndex = 8;
             this.label1.Text = "Sayı 1";
             // 
-            // txtSayi2
+            // textBox2
             // 
-            this.txtSayi2.Location = new System.Drawing.Point(117, 164);
-            this.txtSayi2.Name = "txtSayi2";
-            this.txtSayi2.Size = new System.Drawing.Size(100, 22);
-            this.txtSayi2.TabIndex = 5;
+            this.textBox2.CausesValidation = false;
+            this.textBox2.Location = new System.Drawing.Point(117, 164);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(100, 22);
+            this.textBox2.TabIndex = 5;
             // 
-            // txtSayi1
+            // textBox1
             // 
-            this.txtSayi1.Location = new System.Drawing.Point(117, 92);
-            this.txtSayi1.Name = "txtSayi1";
-            this.txtSayi1.Size = new System.Drawing.Size(100, 22);
-            this.txtSayi1.TabIndex = 6;
+            this.textBox1.Location = new System.Drawing.Point(117, 92);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 22);
+            this.textBox1.TabIndex = 6;
             // 
             // Form1
             // 
@@ -120,8 +121,8 @@
             this.Controls.Add(this.btnIsle);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.txtSayi2);
-            this.Controls.Add(this.txtSayi1);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -137,8 +138,8 @@
         private System.Windows.Forms.Button btnIsle;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtSayi2;
-        private System.Windows.Forms.TextBox txtSayi1;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 
