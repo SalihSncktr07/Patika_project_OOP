@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dikdörtgen Çevre ve Alan Hesaplama", "Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama.csproj", "{E2819184-11AC-4D7B-85DF-EF8F9EE087E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2819184-11AC-4D7B-85DF-EF8F9EE087E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2819184-11AC-4D7B-85DF-EF8F9EE087E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2819184-11AC-4D7B-85DF-EF8F9EE087E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2819184-11AC-4D7B-85DF-EF8F9EE087E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1450ECF0-BB14-4FB6-BD41-AB6B5D30690C}
+	EndGlobalSection
+EndGlobal

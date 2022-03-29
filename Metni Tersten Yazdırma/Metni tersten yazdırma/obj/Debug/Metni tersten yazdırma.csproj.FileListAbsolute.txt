@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\bin\Debug\Metni tersten yazdırma.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\bin\Debug\Metni tersten yazdırma.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\bin\Debug\Metni tersten yazdırma.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\obj\Debug\Metni tersten yazdırma.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\obj\Debug\Metni tersten yazdırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\obj\Debug\Metni_tersten_yazdırma.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\obj\Debug\Metni_tersten_yazdırma.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\obj\Debug\Metni tersten yazdırma.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\obj\Debug\Metni tersten yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\obj\Debug\Metni tersten yazdırma.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Metni tersten yazdırma\Metni tersten yazdırma\obj\Debug\Metni tersten yazdırma.pdb

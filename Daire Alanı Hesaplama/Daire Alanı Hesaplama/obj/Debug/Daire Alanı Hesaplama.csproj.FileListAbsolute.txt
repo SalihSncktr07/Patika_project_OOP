@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Alanı Hesaplama\Daire Alanı Hesaplama\bin\Debug\Daire Alanı Hesaplama.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Alanı Hesaplama\Daire Alanı Hesaplama\bin\Debug\Daire Alanı Hesaplama.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Alanı Hesaplama\Daire Alanı Hesaplama\bin\Debug\Daire Alanı Hesaplama.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Alanı Hesaplama\Daire Alanı Hesaplama\obj\Debug\Daire Alanı Hesaplama.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Alanı Hesaplama\Daire Alanı Hesaplama\obj\Debug\Daire Alanı Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Alanı Hesaplama\Daire Alanı Hesaplama\obj\Debug\Daire Alanı Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Alanı Hesaplama\Daire Alanı Hesaplama\obj\Debug\Daire Alanı Hesaplama.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Alanı Hesaplama\Daire Alanı Hesaplama\obj\Debug\Daire Alanı Hesaplama.pdb

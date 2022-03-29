@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Basamak Ayırma\Basamak Ayırma\obj\Debug\Basamak Ayırma.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Basamak Ayırma\Basamak Ayırma\obj\Debug\Basamak Ayırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Basamak Ayırma\Basamak Ayırma\obj\Debug\Basamak Ayırma.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Basamak Ayırma\Basamak Ayırma\bin\Debug\Basamak Ayırma.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Basamak Ayırma\Basamak Ayırma\bin\Debug\Basamak Ayırma.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Basamak Ayırma\Basamak Ayırma\bin\Debug\Basamak Ayırma.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Basamak Ayırma\Basamak Ayırma\obj\Debug\Basamak Ayırma.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Basamak Ayırma\Basamak Ayırma\obj\Debug\Basamak Ayırma.pdb

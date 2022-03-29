@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Ortalama Hesaplama\Ortalama Hesaplama\bin\Debug\Ortalama Hesaplama.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Ortalama Hesaplama\Ortalama Hesaplama\obj\Debug\Ortalama Hesaplama.pdb

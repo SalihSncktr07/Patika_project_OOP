@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\obj\Debug\Boşluk yazma, tersten yazma, ters çevirme.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\obj\Debug\Boşluk yazma, tersten yazma, ters çevirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\obj\Debug\Boşluk_yazma__tersten_yazma__ters_çevirme.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\obj\Debug\Boşluk_yazma__tersten_yazma__ters_çevirme.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\obj\Debug\Boşluk yazma, tersten yazma, ters çevirme.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\obj\Debug\Boşluk yazma, tersten yazma, ters çevirme.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\bin\Debug\Boşluk yazma, tersten yazma, ters çevirme.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\bin\Debug\Boşluk yazma, tersten yazma, ters çevirme.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\bin\Debug\Boşluk yazma, tersten yazma, ters çevirme.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\obj\Debug\Boşluk yazma, tersten yazma, ters çevirme.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Boşluk yazma, tersten yazma, ters çevirme\Boşluk yazma, tersten yazma, ters çevirme\obj\Debug\Boşluk yazma, tersten yazma, ters çevirme.pdb

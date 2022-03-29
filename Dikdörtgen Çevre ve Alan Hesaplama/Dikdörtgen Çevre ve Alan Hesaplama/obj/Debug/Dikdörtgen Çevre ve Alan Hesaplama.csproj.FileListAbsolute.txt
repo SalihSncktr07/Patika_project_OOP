@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\bin\Debug\Dikdörtgen Çevre ve Alan Hesaplama.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\bin\Debug\Dikdörtgen Çevre ve Alan Hesaplama.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\bin\Debug\Dikdörtgen Çevre ve Alan Hesaplama.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\obj\Debug\Dikdörtgen Çevre ve Alan Hesaplama.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\obj\Debug\Dikdörtgen Çevre ve Alan Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\obj\Debug\Dikdörtgen_Çevre_ve_Alan_Hesaplama.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\obj\Debug\Dikdörtgen_Çevre_ve_Alan_Hesaplama.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\obj\Debug\Dikdörtgen Çevre ve Alan Hesaplama.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\obj\Debug\Dikdörtgen Çevre ve Alan Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\obj\Debug\Dikdörtgen Çevre ve Alan Hesaplama.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Dikdörtgen Çevre ve Alan Hesaplama\Dikdörtgen Çevre ve Alan Hesaplama\obj\Debug\Dikdörtgen Çevre ve Alan Hesaplama.pdb

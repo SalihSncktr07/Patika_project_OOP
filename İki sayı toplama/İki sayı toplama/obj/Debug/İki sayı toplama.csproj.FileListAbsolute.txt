@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\bin\Debug\İki sayı toplama.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\bin\Debug\İki sayı toplama.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\bin\Debug\İki sayı toplama.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\obj\Debug\İki sayı toplama.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\obj\Debug\İki sayı toplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\obj\Debug\İki_sayı_toplama.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\obj\Debug\İki_sayı_toplama.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\obj\Debug\İki sayı toplama.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\obj\Debug\İki sayı toplama.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\obj\Debug\İki sayı toplama.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\İki sayı toplama\İki sayı toplama\obj\Debug\İki sayı toplama.pdb
