@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\obj\Debug\Karesini alma.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\obj\Debug\Karesini alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\obj\Debug\Karesini_alma.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\obj\Debug\Karesini_alma.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\obj\Debug\Karesini alma.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\obj\Debug\Karesini alma.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\bin\Debug\Karesini alma.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\bin\Debug\Karesini alma.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\bin\Debug\Karesini alma.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\obj\Debug\Karesini alma.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karesini alma\Karesini alma\obj\Debug\Karesini alma.pdb

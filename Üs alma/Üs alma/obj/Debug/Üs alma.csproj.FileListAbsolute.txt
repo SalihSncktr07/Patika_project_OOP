@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\obj\Debug\Üs alma.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\obj\Debug\Üs alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\obj\Debug\Üs_alma.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\obj\Debug\Üs alma.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\obj\Debug\Üs alma.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\bin\Debug\Üs alma.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\bin\Debug\Üs alma.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\bin\Debug\Üs alma.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\obj\Debug\Üs_alma.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\obj\Debug\Üs alma.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Üs alma\Üs alma\obj\Debug\Üs alma.pdb

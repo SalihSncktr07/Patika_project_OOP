@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\obj\Debug\Mutlak değer.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\obj\Debug\Mutlak değer.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\obj\Debug\Mutlak_değer.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\obj\Debug\Mutlak_değer.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\obj\Debug\Mutlak değer.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\obj\Debug\Mutlak değer.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\bin\Debug\Mutlak değer.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\bin\Debug\Mutlak değer.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\bin\Debug\Mutlak değer.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\obj\Debug\Mutlak değer.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Mutlak değer\Mutlak değer\obj\Debug\Mutlak değer.pdb

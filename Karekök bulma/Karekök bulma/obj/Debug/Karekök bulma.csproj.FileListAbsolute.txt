@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\bin\Debug\Karekök bulma.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\bin\Debug\Karekök bulma.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\bin\Debug\Karekök bulma.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\obj\Debug\Karekök bulma.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\obj\Debug\Karekök bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\obj\Debug\Karekök_bulma.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\obj\Debug\Karekök_bulma.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\obj\Debug\Karekök bulma.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\obj\Debug\Karekök bulma.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\obj\Debug\Karekök bulma.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Karekök bulma\Karekök bulma\obj\Debug\Karekök bulma.pdb
