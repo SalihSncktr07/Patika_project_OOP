@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DP5ZslWDuhBB8zyzao2WMudz0E6cjvngxq8V+l9Kt1u+p+Mg+zE/E19Tl1h1JnLu7ckzljIKQE7caKioENZqXQ==",
+  "dgSpecHash": "JFsgczeuZcEphXilRkVMWEVsiFOb9A3BEMwiAx7cKjdju+jX/bYcj3EsL/v+B8pBiu/XquxNO1gRoSPmpyF5yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\salih\\OneDrive\\Masaüstü\\C#\\Application\\QRkod\\QRkod\\QRkod.csproj",
+  "projectFilePath": "C:\\Users\\salih\\OneDrive\\Masaüstü\\Kodluyoruz project\\QRkod\\QRkod\\QRkod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salih\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\salih\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",

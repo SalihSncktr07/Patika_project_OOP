@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Çizme\Daire Çizme\obj\Debug\Daire Çizme.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Çizme\Daire Çizme\obj\Debug\Daire Çizme.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Çizme\Daire Çizme\obj\Debug\Daire Çizme.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Çizme\Daire Çizme\bin\Debug\Daire Çizme.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Çizme\Daire Çizme\bin\Debug\Daire Çizme.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Çizme\Daire Çizme\bin\Debug\Daire Çizme.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Çizme\Daire Çizme\obj\Debug\Daire Çizme.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Daire Çizme\Daire Çizme\obj\Debug\Daire Çizme.pdb

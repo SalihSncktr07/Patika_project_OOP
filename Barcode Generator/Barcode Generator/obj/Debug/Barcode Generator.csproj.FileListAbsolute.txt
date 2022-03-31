@@ -1,0 +1,13 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\bin\Debug\Barcode Generator.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\bin\Debug\Barcode Generator.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\bin\Debug\Barcode Generator.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\bin\Debug\zxing.dll
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\bin\Debug\zxing.presentation.dll
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\bin\Debug\zxing.xml
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\bin\Debug\zxing.presentation.xml
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\obj\Debug\Barcode Generator.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\obj\Debug\Barcode Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\obj\Debug\Barcode Generator.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\obj\Debug\Barcode Generator.csproj.CopyComplete
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\obj\Debug\Barcode Generator.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodluyoruz project\Barcode Generator\Barcode Generator\obj\Debug\Barcode Generator.pdb
